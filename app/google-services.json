@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698131741967",
+    "project_id": "otpverificationapp-1ee89",
+    "storage_bucket": "otpverificationapp-1ee89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698131741967:android:ae8da015ccc7831cc2d27a",
+        "android_client_info": {
+          "package_name": "com.fotu.otpverificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698131741967-30n0461s52bp9fijbkqd9hqdlqbr1dsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUp_0N1OIoiEqH-O-NUB2Kd8lGKERjgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698131741967-30n0461s52bp9fijbkqd9hqdlqbr1dsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

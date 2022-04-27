@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">otpVerificationApp</string>
+    <string name="enter_ph_no">Enter Your phone number
+        we will send you an otp for verification</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="_91">+91</string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="not_recieved_otp">not recieved otp? </string>
+    <string name="submit">Submit</string>
+</resources>
